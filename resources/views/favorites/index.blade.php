@@ -1,0 +1,3 @@
+@extends('layouts.app')
+@section('title','Favorit')
+@section('content')<div class="container py-5"><h1 class="fw-bold">Kendaraan Favorit</h1><p class="text-muted">Koleksi kendaraan yang ingin Anda pantau.</p><div class="row g-4">@forelse($vehicles as $vehicle)<div class="col-md-6 col-lg-3">@include('partials.vehicle-card')</div>@empty<div class="col-12"><div class="card p-5 text-center"><i class="bi bi-heart display-3 text-muted"></i><h3>Belum ada favorit</h3><a href="{{ route('search') }}">Jelajahi katalog</a></div></div>@endforelse</div><div class="mt-4">{{ $vehicles->links() }}</div></div>@endsection
