@@ -1,0 +1,80 @@
+No,Brand,Nama Motor,Tahun,Seri/Varian,Harga Baru (Rp),Harga Second (Rp),Jenis Energi (Bensin/Listrik),Konsumsi BBM atau Jarak Tempuh EV,Kategori,CC,Transmisi
+1,Honda,Beat,2025,Deluxe,19500000,16000000,Bensin,60.6 km/l,Matik,110,CVT
+2,Honda,Beat Street,2025,Standard,19800000,16500000,Bensin,60.6 km/l,Matik,110,CVT
+3,Honda,Vario 125,2025,CBS-ISS,24500000,20500000,Bensin,51.7 km/l,Matik,125,CVT
+4,Honda,Vario 160,2025,ABS,30500000,25500000,Bensin,46.9 km/l,Matik,160,CVT
+5,Honda,PCX 160,2025,ABS,36500000,31000000,Bensin,45.0 km/l,Matik,160,CVT
+6,Honda,Scoopy,2025,Prestige,23000000,19500000,Bensin,59.0 km/l,Matik,110,CVT
+7,Honda,Stylo 160,2025,ABS,31000000,26500000,Bensin,45.0 km/l,Matik,160,CVT
+8,Honda,ADV 160,2025,ABS,39500000,34000000,Bensin,45.0 km/l,Matik,160,CVT
+9,Honda,CRF150L,2025,Standard,36500000,30000000,Bensin,39.0 km/l,Sport,150,Manual
+10,Honda,CB150R Streetfire,2025,SE,31500000,25000000,Bensin,40.0 km/l,Sport,150,Manual
+11,Honda,Supra X 125,2025,FI CW,20000000,15500000,Bensin,57.2 km/l,Bebek,125,Manual
+12,Yamaha,NMAX Neo,2025,Standard,32700000,28000000,Bensin,40.0 km/l,Matik,155,CVT
+13,Yamaha,NMAX Turbo,2025,Tech MAX,43250000,38000000,Bensin,38.0 km/l,Matik,155,YECVT
+14,Yamaha,Aerox 155,2025,Cyber City,29000000,24000000,Bensin,42.0 km/l,Matik,155,CVT
+15,Yamaha,Grand Filano,2025,Lux Connected,27500000,23000000,Bensin,50.0 km/l,Matik,125,CVT
+16,Yamaha,Fazzio,2025,Neo,23000000,19000000,Bensin,51.0 km/l,Matik,125,CVT
+17,Yamaha,Mio M3,2025,Standard,17500000,13500000,Bensin,48.0 km/l,Matik,125,CVT
+18,Yamaha,Gear 125,2025,S Version,19000000,15000000,Bensin,47.0 km/l,Matik,125,CVT
+19,Yamaha,Lexi LX 155,2025,ABS,30200000,25000000,Bensin,43.0 km/l,Matik,155,CVT
+20,Yamaha,XMAX 250,2025,Tech MAX,71500000,63000000,Bensin,30.0 km/l,Matik,250,CVT
+21,Yamaha,WR155R,2025,Standard,39000000,33000000,Bensin,35.0 km/l,Sport,155,Manual
+22,Yamaha,R15 Connected,2025,ABS M,44500000,37000000,Bensin,40.0 km/l,Sport,155,Manual
+23,Yamaha,Jupiter Z1,2025,Standard,20000000,15000000,Bensin,53.0 km/l,Bebek,115,Manual
+24,Suzuki,Nex II,2025,Elegant Premium,19500000,14500000,Bensin,49.0 km/l,Matik,115,CVT
+25,Suzuki,Address FI,2025,Predator,21000000,15500000,Bensin,50.0 km/l,Matik,115,CVT
+26,Suzuki,Burgman Street 125EX,2025,Standard,26200000,22000000,Bensin,52.6 km/l,Matik,125,CVT
+27,Suzuki,Satria F150,2025,All New FI,28500000,22000000,Bensin,43.0 km/l,Bebek Sport,150,Manual
+28,Suzuki,GSX-R150,2025,ABS,36000000,27000000,Bensin,40.0 km/l,Sport,150,Manual
+29,Suzuki,V-Strom 250SX,2025,Standard,59500000,50000000,Bensin,32.0 km/l,Sport Tourer,250,Manual
+30,Honda,Genio,2025,CBS,19100000,15500000,Bensin,59.1 km/l,Matik,110,CVT
+31,Honda,Genio,2025,CBS-ISS,19700000,16000000,Bensin,59.1 km/l,Matik,110,CVT
+32,Honda,Revo,2025,Fit,16000000,12500000,Bensin,62.2 km/l,Bebek,110,Manual
+33,Honda,Revo,2025,X,17700000,14000000,Bensin,62.2 km/l,Bebek,110,Manual
+34,Honda,Supra GTR 150,2025,Sporty,25100000,19000000,Bensin,42.2 km/l,Bebek Sport,150,Manual
+35,Honda,Sonic 150R,2025,Activo Black,25500000,19500000,Bensin,40.9 km/l,Bebek Sport,150,Manual
+36,Honda,CB150X,2025,Standard,34000000,28000000,Bensin,38.0 km/l,Sport Adventure,150,Manual
+37,Honda,CBR150R,2025,Standard,37700000,31000000,Bensin,39.7 km/l,Sport,150,Manual
+38,Honda,CBR250RR,2025,Standard,64000000,55000000,Bensin,25.0 km/l,Sport,250,Manual
+39,Honda,Vario 125,2025,CBS,23300000,19500000,Bensin,51.7 km/l,Matik,125,CVT
+40,Honda,PCX 160,2025,CBS,33300000,28500000,Bensin,45.0 km/l,Matik,160,CVT
+41,Yamaha,NMAX Neo,2025,S Version,33700000,29000000,Bensin,40.0 km/l,Matik,155,CVT
+42,Yamaha,Aerox 155,2025,Standard,27700000,23000000,Bensin,42.0 km/l,Matik,155,CVT
+43,Yamaha,Fazzio,2025,Lux,23900000,20000000,Bensin,51.0 km/l,Matik,125,CVT
+44,Yamaha,Grand Filano,2025,Neo,26700000,22000000,Bensin,50.0 km/l,Matik,125,CVT
+45,Yamaha,FreeGo 125,2025,Standard,21700000,17500000,Bensin,45.0 km/l,Matik,125,CVT
+46,Yamaha,FreeGo 125,2025,Connected,23500000,19000000,Bensin,45.0 km/l,Matik,125,CVT
+47,Yamaha,XSR 155,2025,Standard,38300000,32000000,Bensin,40.0 km/l,Sport Retro,155,Manual
+48,Yamaha,MT-15,2025,Standard,38800000,32500000,Bensin,40.0 km/l,Sport Naked,155,Manual
+49,Yamaha,R25,2025,Standard,63900000,54000000,Bensin,25.0 km/l,Sport,250,Manual
+50,Yamaha,MT-25,2025,Standard,57500000,48000000,Bensin,26.0 km/l,Sport Naked,250,Manual
+51,Yamaha,Vega Force,2025,Standard,18100000,13500000,Bensin,55.0 km/l,Bebek,115,Manual
+52,Suzuki,Nex Crossover,2025,Standard,20600000,16000000,Bensin,49.0 km/l,Matik,115,CVT
+53,Suzuki,Avenis 125,2025,Standard,30100000,24000000,Bensin,52.6 km/l,Matik,125,CVT
+54,Suzuki,GSX-S150,2025,Keyless,31500000,24000000,Bensin,40.0 km/l,Sport Naked,150,Manual
+55,Suzuki,Gixxer SF 250,2025,Standard,55500000,45000000,Bensin,33.0 km/l,Sport,250,Manual
+56,Suzuki,Address Playful,2025,Standard,21500000,16500000,Bensin,50.0 km/l,Matik,115,CVT
+57,Suzuki,Nex II,2025,Standard,19300000,14000000,Bensin,49.0 km/l,Matik,115,CVT
+58,Suzuki,Satria F150,2025,Special Edition,29900000,23500000,Bensin,43.0 km/l,Bebek Sport,150,Manual
+59,Honda,Monkey,2025,Standard,83000000,75000000,Bensin,65.0 km/l,Sport Retro,125,Manual
+60,Kawasaki,KLX150,2025,S,33700000,28000000,Bensin,35.0 km/l,Trail,150,Manual
+61,Kawasaki,KLX150,2025,SM,37700000,31000000,Bensin,35.0 km/l,Supermoto,150,Manual
+62,Kawasaki,W175,2025,SE,35100000,28000000,Bensin,40.0 km/l,Sport Retro,177,Manual
+63,Kawasaki,W175,2025,Cafe,36400000,29000000,Bensin,40.0 km/l,Sport Retro,177,Manual
+64,Kawasaki,Ninja 250,2025,Standard,68400000,55000000,Bensin,25.0 km/l,Sport,250,Manual
+65,Kawasaki,Ninja ZX-25R,2025,Standard,110900000,95000000,Bensin,20.0 km/l,Sport,250,Manual
+66,Kawasaki,Ninja ZX-25R,2025,ABS SE,127100000,110000000,Bensin,20.0 km/l,Sport,250,Manual
+67,Kawasaki,KLX230,2025,S,50400000,42000000,Bensin,30.0 km/l,Trail,233,Manual
+68,Vespa,LX 125,2025,i-get,45350000,38000000,Bensin,40.0 km/l,Matik Retro,125,CVT
+69,Vespa,S 125,2025,i-get,45500000,38500000,Bensin,40.0 km/l,Matik Retro,125,CVT
+70,Vespa,Primavera 150,2025,i-get ABS,54100000,47000000,Bensin,38.0 km/l,Matik Retro,150,CVT
+71,Vespa,Primavera 150,2025,S i-get ABS,56600000,49000000,Bensin,38.0 km/l,Matik Retro,150,CVT
+72,Vespa,Sprint 150,2025,i-get ABS,57100000,50000000,Bensin,37.0 km/l,Matik Retro,150,CVT
+73,Vespa,Sprint 150,2025,S i-get ABS,59600000,52000000,Bensin,37.0 km/l,Matik Retro,150,CVT
+74,Vespa,GTS 150,2025,Classic,78800000,68000000,Bensin,35.0 km/l,Matik Retro,150,CVT
+75,Vespa,GTS 150,2025,Super Sport,84550000,75000000,Bensin,35.0 km/l,Matik Retro,150,CVT
+76,Benelli,Panarea 125,2025,Standard,27750000,22000000,Bensin,45.0 km/l,Matik Retro,125,CVT
+77,Benelli,Motobi 152,2025,Standard,23500000,18000000,Bensin,40.0 km/l,Sport Retro,150,Manual
+78,Benelli,Patagonian Eagle 250,2025,Standard,44200000,35000000,Bensin,25.0 km/l,Cruiser,250,Manual
+79,Benelli,TRK 251,2025,Standard,53500000,42000000,Bensin,30.0 km/l,Adventure,250,Manual
