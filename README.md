@@ -90,6 +90,26 @@ Pastikan Anda sudah menginstal:
    ```
    Aplikasi sekarang dapat diakses melalui `http://localhost:8000`.
 
+## ☁️ Deployment ke Vercel
+
+Repository ini memakai PHP community runtime dan aset frontend hasil build yang ada di `public/build`.
+
+1. Build aset sebelum commit:
+   ```bash
+   npm ci
+   npm run build
+   ```
+2. Tambahkan environment variables berikut di **Vercel → Project Settings → Environment Variables**:
+   - `APP_KEY` — buat dengan `php artisan key:generate --show`
+   - `APP_URL` — URL production Vercel
+   - `DB_CONNECTION`, `DB_HOST`, `DB_PORT`, `DB_DATABASE`, `DB_USERNAME`, dan `DB_PASSWORD`
+3. Gunakan database eksternal yang dapat diakses Vercel, lalu jalankan migration dan seeder terhadap database tersebut:
+   ```bash
+   php artisan migrate --seed --force
+   ```
+
+Filesystem function Vercel bersifat sementara. File upload production sebaiknya disimpan di object storage seperti S3, bukan disk `local`.
+
 ---
 
 ## 🔐 Akun Demo
